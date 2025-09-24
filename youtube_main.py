@@ -25,6 +25,8 @@ logo_imag = ImageTk.PhotoImage(resized_img)
 logo_widget = tk.Label(my_gui, image=logo_imag)
 logo_widget.image = logo_imag
 logo_widget.pack(pady=(10, 0))
+my_gui.iconphoto(False, tk.PhotoImage(file= script_dir / "YOUTUBELOGO.png"))
+
 
 yt_frame =tk.Frame(my_gui, bg="yellow")
 yt_frame.rowconfigure(0, weight=1, minsize=50)
