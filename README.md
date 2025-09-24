@@ -29,7 +29,7 @@ It allows you to download YouTube videos or extract audio as MP3, while showing 
 1. **Clone this repository**
 
 
-git clone https://github.com/codewithhaykay/zero_to_hero_python_utube_downloader.git
+git clone https://github.com/codewithhaykay/Zero_to_Hero_PythonYoutube_Downloader.git
 cd zero_to_hero_python_utube_downloader
 
 2. **Create a virtual environment**
